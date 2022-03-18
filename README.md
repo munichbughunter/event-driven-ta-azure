@@ -15,4 +15,4 @@ More information can be found at:
 [Here](https://docs.microsoft.com/de-de/azure/azure-functions/functions-create-function-linux-custom-image?tabs=in-process%2Cbash%2Cazure-cli&pivots=programming-language-javascript) you can start
 
 That is my outcome: 
-[My Outcome](playwright-azure-function.png)
+![My Outcome](playwright-azure-function.png)
